@@ -1,2 +1,1 @@
-# cloud-data-center-docs
-Cloud Data Center Documentation
+See wiki: https://github.com/ckamps/cloud-data-center-docs/wiki
